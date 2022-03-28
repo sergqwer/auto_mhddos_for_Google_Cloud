@@ -23,17 +23,6 @@ https://colab.research.google.com/drive/1uSRAZsibMgDOsM7FPQI5V305O2Wvs-p0
 
 https://colab.research.google.com/drive/1BgCgakZVhjb3e6qli2M66Lyz1yEqA3P4
 
-2. exampl2@gmail.com
-
-https://colab.research.google.com/drive/1LJ1DfArDBPh1akQUrF5R1NCTCBgX3-HC
-
-https://colab.research.google.com/drive/1lVhuu4XzXiAQEXa3keiSlOh6nET3UWbZ
-
-https://colab.research.google.com/drive/1G0ltk6rkHePa3jprcz_Zc7egbaZuUkIw
-
-https://colab.research.google.com/drive/1uSRAZsibMgDOsM7FPQI5V305O2Wvs-p0
-
-https://colab.research.google.com/drive/1BgCgakZVhjb3e6aijsM66Lyz1yEqA3P3
 
 Далі скачуємо файли з мого гітхабу по прямій ссилці:
 
