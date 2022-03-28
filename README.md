@@ -58,4 +58,4 @@ https://github.com/sergqwer/auto_mhddos_for_Google_Cloud
 
 Все, капча показується один раз, через 5-10 хвилин після запуску. проходить її потрібно відкривши вікно браузера, коли пройшли, потрібно вернуть керування браузером скрипту (синя кнопка знизу), або закинуть на якийсь з сервісів автокапчі 1$ і не проходить капчу самому.  
 
-Ps. Скрипт написаний на BrowserAutomationStudio ссилка на офіційний сайт: https://bablosoft.com/shop/BrowserAutomationStudio. все, що я зробив, це файли : "Login/data/project.xml" та "automhddosforGoogleCloud/data/project.xml" решта, це файли які потрібні BAS для нормальноъ роботи.
+Ps. Скрипт написаний на BrowserAutomationStudio ссилка на офіційний сайт: https://bablosoft.com/shop/BrowserAutomationStudio. все, що я зробив, це файли : "Login/data/project.xml" та "automhddosforGoogleCloud/data/project.xml" решта, це файли які потрібні BAS для нормальної роботи.
