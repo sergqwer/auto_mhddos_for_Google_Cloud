@@ -1,4 +1,7 @@
 # auto_mhddos_for_Google_Cloud
+
+Інструкція в відео https://youtu.be/iBsPkAxX3_U
+
 Якщо ще не скачали, то скачайте файли з https://github.com/white-sagittarius/auto_mhddos/blob/main/unzip-and-upload-to-google-drive.zip та загрузіть на гугл діск
 
 Добавте в гугл діску метод запуску: Colaboratory
