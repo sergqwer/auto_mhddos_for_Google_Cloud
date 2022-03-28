@@ -7,6 +7,18 @@
 
    _call(_on_start, null)!
 
+   section_start("", 749480186)!
+   /*Dat:eyJzIjoiZmlsZXN5c3RlbV9jcmVhdGVkaXIiLCJ2IjoxLCJmIjpbXSwidXciOiIwIiwidXQiOiIwIiwidXRvIjoiMCIsInVtIjoiMCIsImQiOlt7ImlkIjoiVmFsdWUiLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6IkM6XFxET05UREVMRVRFIiwiY2xhc3MiOiJzdHJpbmcifV19*/
+   native("filesystem", "createdir", "C:\u005cDONTDELETE")
+   section_end()!
+
+   section_start("", 735476072)!
+   /*Dat:eyJzIjoiZmlsZXN5c3RlbV9jcmVhdGVkaXIiLCJ2IjoxLCJmIjpbXSwidXciOiIwIiwidXQiOiIwIiwidXRvIjoiMCIsInVtIjoiMCIsImQiOlt7ImlkIjoiVmFsdWUiLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6IkM6XFxET05UREVMRVRFXFx7e1Byb2ZpbGV9fSIsImNsYXNzIjoic3RyaW5nIn1dfQ==*/
+   RS("Profile", false, false)!
+   RESOURCE_547201 = _result().get()
+   native("filesystem", "createdir", "C:\u005cDONTDELETE\u005c" + RESOURCE_547201)
+   section_end()!
+
    section_start("", 270151872)!
    /*Dat:eyJzIjoiVXNlUHJvZmlsZSIsInYiOjEsImYiOltdLCJ1dyI6IjAiLCJ1dCI6IjAiLCJ1dG8iOiIwIiwidW0iOiIwIiwiZCI6W3siaWQiOiJQYXRoIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiJDOlxcRE9OVERFTEVURVxce3tQcm9maWxlfX0iLCJjbGFzcyI6InN0cmluZyJ9LHsiaWQiOiJMb2FkRlBGcm9tRm9sZGVyIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiJ0cnVlIiwiY2xhc3MiOiJzdHJpbmcifSx7ImlkIjoiTG9hZFByb3h5RnJvbUZvbGRlciIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoidHJ1ZSIsImNsYXNzIjoic3RyaW5nIn1dfQ==*/
    RS("Profile", false, false)!
@@ -137,7 +149,7 @@
      <CopySilent>false</CopySilent>
      <IsEnginesInAppData>false</IsEnginesInAppData>
      <CompileType>NoProtection</CompileType>
-     <ScriptVersion>0.0.1</ScriptVersion>
+     <ScriptVersion>0.0.2</ScriptVersion>
      <AvailableLanguages>en,ru</AvailableLanguages>
      <EngineVersion>24.7.1</EngineVersion>
      <SettingsWorker>EnableFlash=false
@@ -145,7 +157,7 @@ EnableWidevine=false
 AutostartDebug=false
 SaveBrowserLog=false
 ProfilesCaching=true
-ToolboxHeight=233
+ToolboxHeight=393
 MaxBrowserStartSimultaneously=3
 MinFreeMemoryToStartBrowser=1500
 MinUnusedCpu=35
